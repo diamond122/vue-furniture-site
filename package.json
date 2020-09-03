@@ -15,7 +15,7 @@
     "firebase-tools": "^3.17.7",
     "global": "^4.3.2",
     "pug": "^2.0.0-rc.4",
-    "serve": "^6.5.3",
+    "serve": "^10.1.2",
     "vue": "^2.5.3",
     "vue-router": "^3.0.1",
     "vuetify": "^0.17.7",
